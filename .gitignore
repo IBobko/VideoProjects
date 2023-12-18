@@ -1,0 +1,12 @@
+Media/
+
+*.mp4
+temp/
+cache/
+*.tmp
+*.swp
+*.swo
+*.png
+*.jpg
+*.mp3
+*.mkv
