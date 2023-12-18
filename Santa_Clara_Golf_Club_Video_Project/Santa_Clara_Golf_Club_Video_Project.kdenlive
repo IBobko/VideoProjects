@@ -570,7 +570,7 @@ the Greens&lt;/content>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">15</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:file_hash">3c671a2d9f347719ceef33f39af536c3</property>
+  <property name="kdenlive:file_hash">92619113c5e49880bad752bfec65f0b2</property>
   <filter id="filter23">
    <property name="mlt_service">crop</property>
    <property name="center">1</property>
@@ -579,7 +579,7 @@ the Greens&lt;/content>
  <chain id="chain31" out="00:00:34.033">
   <property name="length">1022</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Santa_Teresa_Golf_Club_Entrance.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Santa_Teresa_Golf_Club_Entrance.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -639,7 +639,7 @@ the Greens&lt;/content>
  <chain id="chain29" out="00:00:28.633">
   <property name="length">860</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Santa_Teresa_Rules_Walkthrough.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Santa_Teresa_Rules_Walkthrough.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -699,7 +699,7 @@ the Greens&lt;/content>
  <chain id="chain34" out="00:00:33.767">
   <property name="length">1014</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Among_The_Players.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Among_The_Players.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -752,9 +752,9 @@ the Greens&lt;/content>
   <property name="kdenlive:id">19</property>
   <property name="mute_on_pause">0</property>
   <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">4540067713</property>
-  <property name="kdenlive:file_hash">ed4b0004b449fc97465d6a418356d8e9</property>
+  <property name="kdenlive:file_size">358038392</property>
   <property name="kdenlive:audio_max1">180</property>
+  <property name="kdenlive:file_hash">27369ea3bac3f18ea68129ac533c21c0</property>
  </chain>
  <producer id="producer0" in="00:00:00.000" out="00:20:10.633">
   <property name="length">2147483647</property>
@@ -1226,7 +1226,7 @@ the Greens&lt;/content>
  <chain id="chain6" out="00:00:34.033">
   <property name="length">1022</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Santa_Teresa_Golf_Club_Entrance.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Santa_Teresa_Golf_Club_Entrance.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -1288,7 +1288,7 @@ the Greens&lt;/content>
  <chain id="chain7" out="00:00:28.633">
   <property name="length">860</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Santa_Teresa_Rules_Walkthrough.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Santa_Teresa_Rules_Walkthrough.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -1350,7 +1350,7 @@ the Greens&lt;/content>
  <chain id="chain8" out="00:00:33.767">
   <property name="length">1014</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Among_The_Players.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Among_The_Players.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -1605,7 +1605,7 @@ the Greens&lt;/content>
  <chain id="chain11" out="00:00:25.700">
   <property name="length">772</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/capture0018.wav</property>
+  <property name="resource">capture0018.wav</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="audio_index">0</property>
@@ -2248,7 +2248,7 @@ the Greens&lt;/content>
  <chain id="chain19" out="00:00:34.033">
   <property name="length">1022</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Santa_Teresa_Golf_Club_Entrance.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Santa_Teresa_Golf_Club_Entrance.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -2310,7 +2310,7 @@ the Greens&lt;/content>
  <chain id="chain32" out="00:00:28.633">
   <property name="length">860</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Santa_Teresa_Rules_Walkthrough.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Santa_Teresa_Rules_Walkthrough.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -2372,7 +2372,7 @@ the Greens&lt;/content>
  <chain id="chain33" out="00:00:33.767">
   <property name="length">1014</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Among_The_Players.mp4</property>
+  <property name="resource">/home/nox/Videos/Media/Output/Among_The_Players.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
