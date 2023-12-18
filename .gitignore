@@ -10,3 +10,5 @@ cache/
 *.jpg
 *.mp3
 *.mkv
+
+.idea/
