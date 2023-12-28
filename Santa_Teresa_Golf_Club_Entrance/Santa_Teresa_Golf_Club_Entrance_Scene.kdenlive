@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.22.0" root="/home/nox/Videos/Santa_Teresa_Golf_Club_Entrance">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.20.0" root="/home/nox/PycharmProjects/VideoProjects/Santa_Teresa_Golf_Club_Entrance">
  <profile frame_rate_num="30000" sample_aspect_num="1" display_aspect_den="16" colorspace="709" progressive="1" description="2160x3840 29.97fps" display_aspect_num="9" frame_rate_den="1001" width="2160" height="3840" sample_aspect_den="1"/>
  <chain id="chain3" out="00:06:34.134">
   <property name="length">11813</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
+  <property name="resource">/home/nox/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -58,7 +58,7 @@
   <property name="astream">0</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:originalurl">/home/nox/Videos/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
+  <property name="kdenlive:originalurl">/home/nox/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
   <property name="kdenlive:id">4</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_size">13794802077</property>
@@ -261,7 +261,7 @@
  <chain id="chain1" out="00:06:34.134">
   <property name="length">11813</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
+  <property name="resource">/home/nox/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -269,7 +269,7 @@
   <property name="video_index">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
-  <property name="kdenlive:originalurl">/home/nox/Videos/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
+  <property name="kdenlive:originalurl">/home/nox/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
   <property name="kdenlive:id">4</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_size">13794802077</property>
@@ -325,6 +325,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="meta.attr.0.stream.rotate.markup">90</property>
  </chain>
  <playlist id="playlist6">
   <property name="kdenlive:audio_track">1</property>
@@ -422,7 +423,7 @@
  <chain id="chain2" out="00:06:34.134">
   <property name="length">11813</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nox/Videos/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
+  <property name="resource">/home/nox/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
   <property name="format">3</property>
@@ -430,7 +431,7 @@
   <property name="video_index">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
-  <property name="kdenlive:originalurl">/home/nox/Videos/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
+  <property name="kdenlive:originalurl">/home/nox/Media/RawMedia/Video/DJI_20231216_140812_49_null_video-30fps.mp4</property>
   <property name="kdenlive:id">4</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_size">13794802077</property>
@@ -486,6 +487,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
+  <property name="meta.attr.0.stream.rotate.markup">90</property>
  </chain>
  <playlist id="playlist12">
   <entry producer="chain2" in="00:00:00.000" out="00:00:10.744">
@@ -744,7 +746,7 @@
   <property name="kdenlive:docproperties.opensequences">{04d81360-2dca-47c0-afd7-651889646a52}</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/nox/.local/share/kdenlive/profiles/customprofile0</property>
+  <property name="kdenlive:docproperties.profile">/home/nox/snap/kdenlive/105/.local/share/kdenlive/profiles/customprofile0</property>
   <property name="kdenlive:docproperties.proxyextension"/>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
