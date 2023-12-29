@@ -577,7 +577,7 @@ the Greens&lt;/content>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">15</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:file_hash">4c709c38dda22129ed8da0cfa6e5adaa</property>
+  <property name="kdenlive:file_hash">6a537fcde37292017226c3a07d397b32</property>
   <filter id="filter23">
    <property name="mlt_service">crop</property>
    <property name="center">1</property>
@@ -766,7 +766,187 @@ the Greens&lt;/content>
   <property name="kdenlive:audio_max1">180</property>
   <property name="kdenlive:file_hash">ed4b0004b449fc97465d6a418356d8e9</property>
  </chain>
- <producer id="producer0" in="00:00:00.000" out="00:20:19.567">
+ <chain id="chain9" out="00:00:37.100">
+  <property name="length">1114</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Driver_Club.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">55357953</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">161344</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">20</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">257510571</property>
+  <property name="kdenlive:file_hash">dd679dddcb9d7067b59c0b4d50693cf7</property>
+  <property name="kdenlive:audio_max1">219</property>
+ </chain>
+ <chain id="chain14" out="00:01:08.033">
+  <property name="length">2042</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Fields_And_Clubs.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">112367906</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">162182</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">21</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">957511028</property>
+  <property name="kdenlive:file_hash">2b256bdad67ae2b6d7a6b2340c19d13f</property>
+  <property name="kdenlive:audio_max1">187</property>
+ </chain>
+ <chain id="chain39" out="00:01:05.667">
+  <property name="length">1971</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_The_Art_of_the_Final_Putt.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">97398999</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">161123</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">22</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">640962236</property>
+  <property name="kdenlive:audio_max1">202</property>
+  <property name="kdenlive:file_hash">917708822f10d15c684cb2202c052e50</property>
+ </chain>
+ <producer id="producer0" in="00:00:00.000" out="00:22:21.867">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -1044,10 +1224,11 @@ the Greens&lt;/content>
  </chain>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:02:23.667"/>
+  <blank length="00:02:21.167"/>
   <entry producer="chain2" in="00:00:00.000" out="00:00:09.667">
    <property name="kdenlive:id">7</property>
   </entry>
+  <blank length="00:02:04.800"/>
   <entry producer="chain3" in="00:00:00.000" out="00:00:26.900">
    <property name="kdenlive:id">4</property>
   </entry>
@@ -1061,7 +1242,7 @@ the Greens&lt;/content>
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor0" in="00:00:00.000" out="00:03:39.533">
+ <tractor id="tractor0" in="00:00:00.000" out="00:05:41.833">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">62</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1344,9 +1525,135 @@ the Greens&lt;/content>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </chain>
+ <chain id="chain1" out="00:01:08.033">
+  <property name="length">2042</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Fields_And_Clubs.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">21</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">957511028</property>
+  <property name="kdenlive:file_hash">2b256bdad67ae2b6d7a6b2340c19d13f</property>
+  <property name="kdenlive:audio_max1">187</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">112367906</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">162182</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
+ <chain id="chain10" out="00:01:05.667">
+  <property name="length">1971</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_The_Art_of_the_Final_Putt.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">22</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">800872682</property>
+  <property name="kdenlive:file_hash">12f928ff9043099d20d0ab9643a260c8</property>
+  <property name="kdenlive:audio_max1">201</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">95317834</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">161773</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:00:10.000"/>
+  <blank length="00:00:07.500"/>
   <entry producer="chain6" in="00:00:00.000" out="00:00:34.033">
    <property name="kdenlive:id">16</property>
   </entry>
@@ -1359,11 +1666,18 @@ the Greens&lt;/content>
   <entry producer="chain0" in="00:00:00.000" out="00:00:37.100">
    <property name="kdenlive:id">20</property>
   </entry>
+  <blank length="00:00:09.733"/>
+  <entry producer="chain1" in="00:00:00.000" out="00:01:08.033">
+   <property name="kdenlive:id">21</property>
+  </entry>
+  <entry producer="chain10" in="00:00:00.000" out="00:01:05.667">
+   <property name="kdenlive:id">22</property>
+  </entry>
  </playlist>
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="00:02:23.633">
+ <tractor id="tractor1" in="00:00:00.000" out="00:04:44.633">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">62</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1431,7 +1745,7 @@ the Greens&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <chain id="chain10" out="00:00:14.200">
+ <chain id="chain12" out="00:00:14.200">
   <property name="length">427</property>
   <property name="eof">pause</property>
   <property name="resource">warm-piano-logo-116098.mp3</property>
@@ -1458,7 +1772,7 @@ the Greens&lt;/content>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </chain>
- <chain id="chain12" out="00:00:24.900">
+ <chain id="chain13" out="00:00:24.900">
   <property name="length">748</property>
   <property name="eof">pause</property>
   <property name="resource">capture0009.wav</property>
@@ -1494,20 +1808,19 @@ the Greens&lt;/content>
  </chain>
  <playlist id="playlist6">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="chain10" in="00:00:00.000" out="00:00:09.967">
+  <entry producer="chain12" in="00:00:02.500" out="00:00:09.967">
    <property name="kdenlive:id">14</property>
-   <filter id="filter14" in="00:00:-0.033" out="00:00:09.967">
+   <filter id="filter7" in="00:00:02.467" out="00:00:09.967">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:02:50.500"/>
-  <entry producer="chain12" in="00:00:00.000" out="00:00:14.600">
+  <blank length="00:04:55.300"/>
+  <entry producer="chain13" in="00:00:00.000" out="00:00:14.600">
    <property name="kdenlive:id">11</property>
    <filter id="filter15">
     <property name="mlt_service">avfilter.adenorm</property>
@@ -1539,7 +1852,7 @@ the Greens&lt;/content>
  <playlist id="playlist7">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor3" in="00:00:00.000" out="00:03:15.100">
+ <tractor id="tractor3" in="00:00:00.000" out="00:05:17.400">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">62</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1564,7 +1877,7 @@ the Greens&lt;/content>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter7">
+  <filter id="filter8">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
@@ -1606,12 +1919,12 @@ the Greens&lt;/content>
   </filter>
  </producer>
  <playlist id="playlist8">
-  <entry producer="producer1" in="00:00:00.000" out="00:00:09.967">
+  <entry producer="producer1" in="00:00:02.500" out="00:00:09.967">
    <property name="kdenlive:id">15</property>
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:00:09.967">
+ <tractor id="tractor4" in="00:00:00.000" out="00:00:07.467">
   <property name="kdenlive:trackheight">62</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -1620,7 +1933,7 @@ the Greens&lt;/content>
   <track hide="audio" producer="playlist8"/>
   <track hide="audio" producer="playlist9"/>
  </tractor>
- <chain id="chain15" out="00:00:09.667">
+ <chain id="chain16" out="00:00:09.667">
   <property name="length">291</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/RawMedia/Video/20231210_161358-30fps.mp4</property>
@@ -1687,7 +2000,7 @@ the Greens&lt;/content>
   <property name="set.test_image">0</property>
   <property name="meta.attr.0.stream.rotate.markup">90</property>
  </chain>
- <chain id="chain16" out="00:00:26.900">
+ <chain id="chain17" out="00:00:26.900">
   <property name="length">808</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/RawMedia/Video/20231210_160131-30fps.mp4</property>
@@ -1753,7 +2066,7 @@ the Greens&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <chain id="chain17" out="00:00:20.800">
+ <chain id="chain18" out="00:00:20.800">
   <property name="length">625</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/RawMedia/Video/20231210_161411-30fps.mp4</property>
@@ -1820,7 +2133,7 @@ the Greens&lt;/content>
   <property name="set.test_image">0</property>
   <property name="meta.attr.0.stream.rotate.markup">90</property>
  </chain>
- <chain id="chain18" out="00:00:18.400">
+ <chain id="chain19" out="00:00:18.400">
   <property name="length">553</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/RawMedia/Video/20231210_161531-30fps.mp4</property>
@@ -1887,25 +2200,26 @@ the Greens&lt;/content>
   <property name="set.test_image">0</property>
  </chain>
  <playlist id="playlist10">
-  <entry producer="producer2" in="00:00:00.000" out="00:00:09.967">
+  <entry producer="producer2" in="00:00:00.000" out="00:00:07.467">
    <property name="kdenlive:id">12</property>
   </entry>
   <blank length="00:02:13.667"/>
-  <entry producer="chain15" in="00:00:00.000" out="00:00:09.667">
+  <entry producer="chain16" in="00:00:00.000" out="00:00:09.667">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="chain16" in="00:00:00.000" out="00:00:26.900">
+  <blank length="00:02:04.800"/>
+  <entry producer="chain17" in="00:00:00.000" out="00:00:26.900">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:00:00.000" out="00:00:20.800">
+  <entry producer="chain18" in="00:00:00.000" out="00:00:20.800">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain18" in="00:00:00.000" out="00:00:18.400">
+  <entry producer="chain19" in="00:00:00.000" out="00:00:18.400">
    <property name="kdenlive:id">9</property>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="00:03:39.533">
+ <tractor id="tractor5" in="00:00:00.000" out="00:05:41.833">
   <property name="kdenlive:trackheight">62</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -1914,7 +2228,7 @@ the Greens&lt;/content>
   <track hide="audio" producer="playlist10"/>
   <track hide="audio" producer="playlist11"/>
  </tractor>
- <chain id="chain19" out="00:00:34.033">
+ <chain id="chain32" out="00:00:34.033">
   <property name="length">1022</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Entrance.mp4</property>
@@ -1978,7 +2292,7 @@ the Greens&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <chain id="chain32" out="00:00:28.633">
+ <chain id="chain33" out="00:00:28.633">
   <property name="length">860</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/Output/Santa_Teresa_Rules_Walkthrough.mp4</property>
@@ -2040,7 +2354,7 @@ the Greens&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <chain id="chain33" out="00:00:33.767">
+ <chain id="chain35" out="00:00:33.767">
   <property name="length">1014</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/Output/Among_The_Players.mp4</property>
@@ -2103,7 +2417,7 @@ the Greens&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <chain id="chain1" out="00:00:37.100">
+ <chain id="chain36" out="00:00:37.100">
   <property name="length">1114</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Driver_Club.mp4</property>
@@ -2166,23 +2480,156 @@ the Greens&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
+ <chain id="chain37" out="00:01:08.033">
+  <property name="length">2042</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Fields_And_Clubs.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">21</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">957511028</property>
+  <property name="kdenlive:file_hash">2b256bdad67ae2b6d7a6b2340c19d13f</property>
+  <property name="kdenlive:audio_max1">187</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">112367906</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">162182</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </chain>
+ <chain id="chain38" out="00:01:05.667">
+  <property name="length">1971</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_The_Art_of_the_Final_Putt.mp4</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">22</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">800872682</property>
+  <property name="kdenlive:file_hash">12f928ff9043099d20d0ab9643a260c8</property>
+  <property name="kdenlive:audio_max1">201</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">2160</property>
+  <property name="meta.media.0.codec.height">3840</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">95317834</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">161773</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">2160</property>
+  <property name="meta.media.height">3840</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </chain>
  <playlist id="playlist12">
-  <blank length="00:00:10.000"/>
-  <entry producer="chain19" in="00:00:00.000" out="00:00:34.033">
+  <blank length="00:00:07.500"/>
+  <entry producer="chain32" in="00:00:00.000" out="00:00:34.033">
    <property name="kdenlive:id">16</property>
   </entry>
-  <entry producer="chain32" in="00:00:00.000" out="00:00:28.633">
+  <entry producer="chain33" in="00:00:00.000" out="00:00:28.633">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="chain33" in="00:00:00.000" out="00:00:33.767">
+  <entry producer="chain35" in="00:00:00.000" out="00:00:33.767">
    <property name="kdenlive:id">19</property>
   </entry>
-  <entry producer="chain1" in="00:00:00.000" out="00:00:37.100">
+  <entry producer="chain36" in="00:00:00.000" out="00:00:37.100">
    <property name="kdenlive:id">20</property>
+  </entry>
+  <blank length="00:00:09.733"/>
+  <entry producer="chain37" in="00:00:00.000" out="00:01:08.033">
+   <property name="kdenlive:id">21</property>
+  </entry>
+  <entry producer="chain38" in="00:00:00.000" out="00:01:05.667">
+   <property name="kdenlive:id">22</property>
   </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:02:23.633">
+ <tractor id="tractor6" in="00:00:00.000" out="00:04:44.633">
   <property name="kdenlive:trackheight">62</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -2192,9 +2639,9 @@ the Greens&lt;/content>
   <track hide="audio" producer="playlist12"/>
   <track hide="audio" producer="playlist13"/>
  </tractor>
- <tractor id="tractor7" in="00:00:00.000" out="00:03:39.533">
-  <property name="kdenlive:duration">00:03:39:17</property>
-  <property name="kdenlive:maxduration">6587</property>
+ <tractor id="tractor7" in="00:00:00.000" out="00:05:41.833">
+  <property name="kdenlive:duration">00:05:41:26</property>
+  <property name="kdenlive:maxduration">10256</property>
   <property name="kdenlive:clipname">Sequence 1</property>
   <property name="kdenlive:description"/>
   <property name="kdenlive:uuid">{9bcdce20-410c-4108-8f38-d6b8e84891fb}</property>
@@ -2203,31 +2650,31 @@ the Greens&lt;/content>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">e529cde799552bfcee34695e37b8b930</property>
   <property name="kdenlive:folderid">2</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">5</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">4</property>
   <property name="kdenlive:sequenceproperties.audioTarget">1</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
   <property name="kdenlive:sequenceproperties.documentuuid">{9bcdce20-410c-4108-8f38-d6b8e84891fb}</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.position">5103</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">0</property>
+  <property name="kdenlive:sequenceproperties.position">8057</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">177204</property>
   <property name="kdenlive:sequenceproperties.tracks">4</property>
   <property name="kdenlive:sequenceproperties.tracksCount">7</property>
   <property name="kdenlive:sequenceproperties.verticalzoom">1</property>
   <property name="kdenlive:sequenceproperties.videoTarget">2</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
-  <property name="kdenlive:sequenceproperties.zoneout">75</property>
-  <property name="kdenlive:sequenceproperties.zoom">11</property>
+  <property name="kdenlive:sequenceproperties.zoneout">8266</property>
+  <property name="kdenlive:sequenceproperties.zoom">1</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
             {
-                "data": "5:4601",
+                "data": "5:8270",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:4601",
+                "data": "0:8270",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2237,12 +2684,12 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "5:4310",
+                "data": "5:4235",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:4310",
+                "data": "0:4235",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2252,12 +2699,12 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "6:300",
+                "data": "6:225",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:300",
+                "data": "1:225",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2267,12 +2714,12 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "6:3196",
+                "data": "6:6569",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:3196",
+                "data": "1:6569",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2282,12 +2729,12 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "5:5409",
+                "data": "6:3121",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:5409",
+                "data": "1:3121",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2297,12 +2744,12 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "5:6034",
+                "data": "5:9078",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:6034",
+                "data": "0:9078",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2312,12 +2759,12 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "6:2182",
+                "data": "5:9703",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:2182",
+                "data": "0:9703",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2327,12 +2774,42 @@ the Greens&lt;/content>
     {
         "children": [
             {
-                "data": "6:1322",
+                "data": "6:2107",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:1322",
+                "data": "1:2107",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "6:1247",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1247",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "6:4527",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4527",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2352,7 +2829,21 @@ the Greens&lt;/content>
   <track producer="tractor4"/>
   <track producer="tractor5"/>
   <track producer="tractor6"/>
-  <transition id="transition0">
+  <transition id="transition0" in="00:05:23.433" out="00:05:26.400">
+   <property name="a_track">5</property>
+   <property name="b_track">6</property>
+   <property name="geometry">0=0% 0% 100% 100% 0%;-1=0% 0% 100% 100% 100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">0</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="kdenlive_id">wipe</property>
+   <property name="luma"/>
+   <property name="softness">0</property>
+   <property name="luma_invert">0</property>
+   <property name="fill">1</property>
+  </transition>
+  <transition id="transition1">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
    <property name="mlt_service">mix</property>
@@ -2362,7 +2853,7 @@ the Greens&lt;/content>
    <property name="accepts_blanks">1</property>
    <property name="sum">1</property>
   </transition>
-  <transition id="transition1">
+  <transition id="transition2">
    <property name="a_track">0</property>
    <property name="b_track">2</property>
    <property name="mlt_service">mix</property>
@@ -2372,7 +2863,7 @@ the Greens&lt;/content>
    <property name="accepts_blanks">1</property>
    <property name="sum">1</property>
   </transition>
-  <transition id="transition2">
+  <transition id="transition3">
    <property name="a_track">0</property>
    <property name="b_track">3</property>
    <property name="mlt_service">mix</property>
@@ -2382,7 +2873,7 @@ the Greens&lt;/content>
    <property name="accepts_blanks">1</property>
    <property name="sum">1</property>
   </transition>
-  <transition id="transition3">
+  <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
    <property name="mlt_service">mix</property>
@@ -2392,7 +2883,7 @@ the Greens&lt;/content>
    <property name="accepts_blanks">1</property>
    <property name="sum">1</property>
   </transition>
-  <transition id="transition4">
+  <transition id="transition5">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
    <property name="compositing">0</property>
@@ -2402,7 +2893,7 @@ the Greens&lt;/content>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
-  <transition id="transition5">
+  <transition id="transition6">
    <property name="a_track">0</property>
    <property name="b_track">6</property>
    <property name="compositing">0</property>
@@ -2412,7 +2903,7 @@ the Greens&lt;/content>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
-  <transition id="transition6">
+  <transition id="transition7">
    <property name="a_track">0</property>
    <property name="b_track">7</property>
    <property name="compositing">0</property>
@@ -2438,66 +2929,6 @@ the Greens&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <chain id="chain9" out="00:00:37.100">
-  <property name="length">1114</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/nox/Media/Output/Santa_Teresa_Golf_Club_Driver_Club.mp4</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">30</property>
-  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.width">2160</property>
-  <property name="meta.media.0.codec.height">3840</property>
-  <property name="meta.media.0.codec.rotate">0</property>
-  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
-  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.colorspace">709</property>
-  <property name="meta.media.0.codec.color_trc">1</property>
-  <property name="meta.media.0.codec.name">h264</property>
-  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.0.codec.bit_rate">55357953</property>
-  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
-  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
-  <property name="meta.media.1.stream.type">audio</property>
-  <property name="meta.media.1.codec.sample_fmt">fltp</property>
-  <property name="meta.media.1.codec.sample_rate">48000</property>
-  <property name="meta.media.1.codec.channels">2</property>
-  <property name="meta.media.1.codec.name">aac</property>
-  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.1.codec.bit_rate">161344</property>
-  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
-  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
-  <property name="meta.attr.major_brand.markup">isom</property>
-  <property name="meta.attr.minor_version.markup">512</property>
-  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
-  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">30</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">709</property>
-  <property name="meta.media.color_trc">1</property>
-  <property name="meta.media.has_b_frames">2</property>
-  <property name="meta.media.width">2160</property>
-  <property name="meta.media.height">3840</property>
-  <property name="meta.media.color_range">mpeg</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">20</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">257510571</property>
-  <property name="kdenlive:file_hash">dd679dddcb9d7067b59c0b4d50693cf7</property>
-  <property name="kdenlive:audio_max1">219</property>
- </chain>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.2">Sequences</property>
   <property name="kdenlive:folder.-1.18">Folder</property>
@@ -2576,7 +3007,7 @@ the Greens&lt;/content>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
-  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.rendermode">1</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
   <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
@@ -2617,11 +3048,13 @@ p, li { white-space: pre-wrap; }
   <entry producer="chain20" in="00:00:00.000" out="00:00:34.033"/>
   <entry producer="chain29" in="00:00:00.000" out="00:00:28.633"/>
   <entry producer="chain34" in="00:00:00.000" out="00:00:33.767"/>
-  <entry producer="tractor7" in="00:00:00.000" out="00:03:30.600"/>
   <entry producer="chain9" in="00:00:00.000" out="00:00:37.100"/>
+  <entry producer="chain14" in="00:00:00.000" out="00:01:08.033"/>
+  <entry producer="chain39" in="00:00:00.000" out="00:01:05.667"/>
+  <entry producer="tractor7" in="00:00:00.000" out="00:05:44.333"/>
  </playlist>
- <tractor id="tractor8" in="00:00:00.000" out="00:03:39.533">
+ <tractor id="tractor8" in="00:00:00.000" out="00:05:41.833">
   <property name="kdenlive:projectTractor">1</property>
-  <track producer="tractor7" in="00:00:00.000" out="00:03:39.533"/>
+  <track producer="tractor7" in="00:00:00.000" out="00:05:41.833"/>
  </tractor>
 </mlt>
