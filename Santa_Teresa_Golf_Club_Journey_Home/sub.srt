@@ -1,0 +1,27 @@
+1
+00:00:01,000 --> 00:00:05,000
+Our adventure at the Santa Teresa Golf Club is coming to an end.
+
+2
+00:00:05,000 --> 00:00:10,000
+I'm riding back on the bus, and this moment is perfect for reflecting on the wonderful day we've spent.
+
+3
+00:00:10,000 --> 00:00:15,000
+We've seen so much: from the bustling streets of San Jose to the tranquil green expanses of the golf course,
+
+4
+00:00:15,000 --> 00:00:20,000
+beautiful cottages, and even fruit trees. Each stage of our journey was special.
+
+5
+00:00:20,000 --> 00:00:25,000
+Thank you for joining me on this trip.
+
+6
+00:00:25,000 --> 00:00:30,000
+I hope you enjoyed it as much as I did.
+
+7
+00:00:30,000 --> 00:00:35,000
+Until we meet again for new adventures!

@@ -2,3 +2,31 @@
 00:00:00,000 --> 00:00:05,000
 Add text
 
+2
+00:00:01,000 --> 00:00:06,000
+Before us unfolds a colorful panorama of the golf course with its neatly trimmed grass, smooth fairways, and cunning bunkers.
+
+3
+00:00:06,000 --> 00:00:11,000
+On the fairway, this sleek path leading to the hole, players often use irons – clubs with varying degrees of loft for precise mid and long-range shots.
+
+4
+00:00:11,000 --> 00:00:16,000
+Woods are also used for long shots from the fairway or the ground, offering a combination of power and accuracy.
+
+5
+00:00:16,000 --> 00:00:21,000
+In the bunkers, these sandy traps, special clubs like sand wedges come to the rescue, specifically designed for playing in the sand.
+
+6
+00:00:21,000 --> 00:00:26,000
+These clubs have a wide sole and a soft angle of loft, which makes it easier for the ball to get out of the sand.
+
+7
+00:00:26,000 --> 00:00:31,000
+Each element of the course, whether it's grass, a fairway, or a bunker, requires its own approach and the choice of the right club,
+
+8
+00:00:31,000 --> 00:00:36,000
+making golf a game of strategy, technique, and fine craftsmanship.
+

@@ -1271,7 +1271,7 @@
   <property name="kdenlive:sequenceproperties.documentuuid">{c784ef87-1f62-4444-a9f7-adbd4c7492ea}</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.position">268</property>
+  <property name="kdenlive:sequenceproperties.position">0</property>
   <property name="kdenlive:sequenceproperties.scrollPos">0</property>
   <property name="kdenlive:sequenceproperties.tracks">4</property>
   <property name="kdenlive:sequenceproperties.tracksCount">7</property>
@@ -1376,6 +1376,7 @@
   <property name="kdenlive:sequenceproperties.guides">[
 ]
 </property>
+  <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
   <track producer="producer0"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -1467,6 +1468,11 @@
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
+  </filter>
+  <filter id="filter14">
+   <property name="mlt_service">avfilter.subtitles</property>
+   <property name="internal_added">237</property>
+   <property name="av.filename">Santa_Teresa_Golf_Club_The_Art_of_the_Final_Putt.kdenlive.srt</property>
   </filter>
  </tractor>
  <playlist id="main_bin">
