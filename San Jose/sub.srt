@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:06,000
+In the heart of San Jose lies a building that is a vivid representative of the Art Deco style and an important symbol of urban infrastructure—the central post office, built in 1933 (найнтин фёрти-три).
+
+2
+00:00:06,000 --> 00:00:12,000
+This architectural masterpiece reflects an era of striving for progress and optimism, characteristic of the Great Depression times, and serves as a vivid testament to the importance of public buildings in the life of the city.
+
+3
+00:00:12,000 --> 00:00:19,000
+In an era of digital technologies, when paper letters are becoming increasingly rare, the San Jose central post office remains a living reminder of the importance of personal communication and cultural heritage.
+
+4
+00:00:19,000 --> 00:00:26,000
+It continues to inspire residents and visitors of the city with its beauty and history, remaining an important part of the urban landscape.
